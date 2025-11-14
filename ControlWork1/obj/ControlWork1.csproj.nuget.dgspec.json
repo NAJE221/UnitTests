@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Artem\\RiderProjects\\UnitTests\\ControlWork1\\ControlWork1.csproj": {}
+    "C:\\Users\\Artem\\Desktop\\UnitTests\\ControlWork1\\ControlWork1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Artem\\RiderProjects\\UnitTests\\ControlWork1\\ControlWork1.csproj": {
+    "C:\\Users\\Artem\\Desktop\\UnitTests\\ControlWork1\\ControlWork1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Artem\\RiderProjects\\UnitTests\\ControlWork1\\ControlWork1.csproj",
+        "projectUniqueName": "C:\\Users\\Artem\\Desktop\\UnitTests\\ControlWork1\\ControlWork1.csproj",
         "projectName": "ControlWork1",
-        "projectPath": "C:\\Users\\Artem\\RiderProjects\\UnitTests\\ControlWork1\\ControlWork1.csproj",
+        "projectPath": "C:\\Users\\Artem\\Desktop\\UnitTests\\ControlWork1\\ControlWork1.csproj",
         "packagesPath": "C:\\Users\\Artem\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Artem\\RiderProjects\\UnitTests\\ControlWork1\\obj\\",
+        "outputPath": "C:\\Users\\Artem\\Desktop\\UnitTests\\ControlWork1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Artem\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.415/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.416/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
